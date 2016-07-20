@@ -1,0 +1,2 @@
+# AlgorithmicBusiness
+Algorithmic Business Ideas
